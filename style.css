@@ -1,0 +1,54 @@
+body {
+    background-color: ghostwhite;
+}
+
+h1 { 
+    text-align: center; 
+}
+
+p.redtext {
+    color: red;
+}
+
+p.bluetext {
+    color: blue;
+}
+
+p.greentext {
+    color: green;
+}
+
+p.largefont {
+    font-size: x-large;
+}
+
+p.smallfont {
+    font-size: x-small;
+}
+
+p.centertext {
+    text-align: center;
+}
+
+p.boldfont {
+    font-weight: bold;
+}
+
+p.changefont {
+    font-family: cursive;
+}
+
+p.multifont {
+    color: orange;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+p.styledFont {
+    color: purple;
+    font-family: arial;
+}
+
+#styledImage {
+	border: 10px solid yellow;
+}
